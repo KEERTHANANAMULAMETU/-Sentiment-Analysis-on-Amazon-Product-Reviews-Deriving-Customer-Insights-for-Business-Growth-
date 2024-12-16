@@ -1,8 +1,3 @@
-Let's create a structured and detailed documentation for your project, **"Sentiment Analysis on Amazon Products Reviews"**, based on the provided notebook. The documentation will include the project's objectives, methodology, code workflow, and outcomes.
-
----
-
-### **Documentation: Sentiment Analysis on Amazon Products Reviews**
 
 #### **1. Project Overview**
 The project involves performing sentiment analysis on Amazon product reviews using a combination of text preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning models. The goal is to classify customer reviews as **positive** or **negative**, thereby deriving actionable insights from the data.
